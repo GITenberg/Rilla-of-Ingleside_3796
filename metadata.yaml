@@ -1,5 +1,8 @@
 _repo: Rilla-of-Ingleside_3796
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montgomery, L. M. (Lucy Maud)
@@ -36,6 +39,8 @@ description: "Rilla of Ingleside (1921) is the eighth of nine books in the Anne 
   \ by Benjamin Lefebvre (editor of Montgomery's The Blythes Are Quoted) and Andrea\
   \ McKenzie, was published by Viking Canada in October 2010.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3796#Rilla-of-Ingleside
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
